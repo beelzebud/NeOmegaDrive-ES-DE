@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Gaelco are one of the only companys outside of the "big boys" who develop and use their own custom hardware instead of using generic systems. They're all slightly different and seem to evolve from game to game, even if nothing much is known about them individually.</systemDescription>
+      <systemManufacturer>SpecNext Ltd.</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>2017</systemReleaseDate>
+      <systemReleaseDateFormated>2017</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>32323D</systemColor>
+      <systemColorPalette1>CA2825</systemColorPalette1>
+      <systemColorPalette2>EDBA01</systemColorPalette2>
+      <systemColorPalette3>009C37</systemColorPalette3>
+      <systemColorPalette4>02559C</systemColorPalette4>
+   </variables>
+</theme>

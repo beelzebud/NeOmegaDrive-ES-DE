@@ -1,0 +1,17 @@
+<theme>
+   <variables>
+      <systemDescription>TeknoParrot is a closed-source compatibility layer for Windows PCs to run games originally made for Windows-based and some Linux-based arcade systems. It includes the ability to map standard PC gear like steering wheels and joysticks to the game's input.  TeknoParrot currently supports over 170 arcade titles and many PC-based arcade boards, and the emulation of these and more titles continue to be improved. 
+      
+      Supported systems include Sega Ringedge(wide), Sega Lindbergh, Namco ES3, Taito Type X variants, and many others.</systemDescription>
+      <systemManufacturer>Teknogods</systemManufacturer>
+      <systemReleaseYear>2023</systemReleaseYear>
+      <systemReleaseDate>2023-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2023</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>E27E16</systemColor>
+      <systemColorPalette1>E4E7D7</systemColorPalette1>
+      <systemColorPalette2>FD95B0</systemColorPalette2>
+      <systemColorPalette3>48B3EB</systemColorPalette3>
+      <systemColorPalette4>35FF90</systemColorPalette4>
+   </variables>
+</theme>

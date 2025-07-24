@@ -1,0 +1,19 @@
+<theme>
+   <variables>
+      <systemDescription>The Hyper Neo Geo 64 is an arcade system created by SNK, and released in September 1997, as the successor of the Neo Geo MVS, within the Neo Geo family.
+
+It is the first and only SNK hardware set capable of rendering in 3D, and was meant to replace SNK's older MVS system on the market. Company executives planned for the project to bring SNK into the new era of 3D gaming that had arisen during the mid-1990s, and had planned for a corresponding home system to replace the aging and expensive AES home console.
+
+However it never managed to match the huge success of the MVS, and reached its end of life in 1999. Only seven games were produced for the arcade variation of the system, none of which proved particularly popular, and the project was discontinued. The proposed home system never got beyond initial planning stages and only one of the arcade games, Fatal Fury: Wild Ambition, has been ported to home systems.</systemDescription>
+      <systemManufacturer>SNK</systemManufacturer>
+      <systemReleaseYear>1997</systemReleaseYear>
+      <systemReleaseDate>1997-09-01</systemReleaseDate>
+      <systemReleaseDateFormated>September 1, 1997</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>7A838B</systemColor>
+      <systemColorPalette1>BF9328</systemColorPalette1>
+      <systemColorPalette2>494949</systemColorPalette2>
+      <systemColorPalette3>2D2D2D</systemColorPalette3>
+      <systemColorPalette4>E8E2E9</systemColorPalette4>
+   </variables>
+</theme>

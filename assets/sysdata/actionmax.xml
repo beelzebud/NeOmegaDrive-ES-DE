@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Action Max is a home video game console using VHS tapes for games. It was manufactured in 1987 by Worlds of Wonder.[1] The system had a very limited release outside the U.S. The Action Max system requires the player to also have a VCR,[2] as the console has no way to play the requisite VHS tapes itself. Using light guns, players shoot at the screen. The gaming is strictly point-based and dependent on shot accuracy, and as a result, players can't truly win or lose a game. The system's post-launch appeal was limited by this and by the fact that the only real genre on the system were light gun games that played exactly the same way every time, leading to its quick market decline.</systemDescription>
+      <systemManufacturer>World of Wonder</systemManufacturer>
+      <systemReleaseYear>1987</systemReleaseYear>
+      <systemReleaseDate>1987-07-23</systemReleaseDate>
+      <systemReleaseDateFormated>July 23, 1987</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>3870c5</systemColor>
+      <systemColorPalette1>477AB1</systemColorPalette1>
+      <systemColorPalette2>82B030</systemColorPalette2>
+      <systemColorPalette3>F3EB08</systemColorPalette3>
+      <systemColorPalette4>E85629</systemColorPalette4>
+   </variables>
+</theme>

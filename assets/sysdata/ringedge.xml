@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Sega RingEdge (リングエッジ) arcade board is an arcade platform developed by Sega as one half of their Ring series (the other half being Sega RingWide). Both machines are based on PC architecture, using Microsoft Windows Embedded Standard 2009 as their operating system in an attempt to encourage third-party companies to produce arcade games for these systems. Ultimately the system is not that different to the Lindbergh, as the games produced for it, show little upgrade from the best looking Lindbergh games. The RingEdge mainly serves to be cheaper and more streamlined than the Lindbergh. Altough a cheaper version exists, which is the Sega Ringwide. </systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1994</systemReleaseYear>
+      <systemReleaseDate>1994-12-03</systemReleaseDate>
+      <systemReleaseDateFormated>December 3, 1994</systemReleaseDateFormated>
+      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemColor>0C7BCB</systemColor>
+      <systemColorPalette1>DCE3E6</systemColorPalette1>
+      <systemColorPalette2>D5202C</systemColorPalette2>
+      <systemColorPalette3>C0C1C4</systemColorPalette3>
+      <systemColorPalette4>212122</systemColorPalette4>
+   </variables>
+</theme>

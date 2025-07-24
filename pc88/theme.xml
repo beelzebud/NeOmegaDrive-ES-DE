@@ -1,0 +1,103 @@
+<theme>
+	<include>./../assets/sysdata/${system.theme}.xml</include>
+	
+	<variables>
+		<systemBg>./../assets/systemBg/${system.theme}.webp</systemBg>
+		<gameListBg>./../assets/gamelistBG/${system.theme}.webp</gameListBg>
+		<mainFont>./../assets/fonts/aldrich.ttf</mainFont>
+        <mainFontSize>0.025</mainFontSize>
+		<gamelistFont>./../assets/fonts/pixel3.ttf</gamelistFont>
+        <secondFont>./../assets/fonts/arcade.ttf</secondFont>
+		<sysFont1>./../assets/fonts/medium.otf</sysFont1>
+		<sysFont2>./../assets/fonts/bold.ttf</sysFont2>
+		<sysData>./../assets/sysdata/${system.theme}.xml</sysData>
+		<syslogo>./../assets/logos/${system.theme}.svg</syslogo>
+		<minisys>./../assets/minis/${system.theme}.webp</minisys>
+	</variables>
+	
+	<view name="system">
+		<image name="indicator">
+			<path>${systemBg}</path>
+			<tile>false</tile>
+			<origin>0 0</origin>
+			<size>0 1</size>
+			<pos>0 0</pos>
+		</image>
+		<carousel name="systemCarousel">
+			<pos>0 0.625</pos>
+			<size>1 0.4</size>
+			<type>horizontal</type>
+			<horizontalOffset>-.275</horizontalOffset>
+			<staticImage>${syslogo}</staticImage>
+			<defaultImage>${syslogo}</defaultImage>
+			<maxItemCount>1</maxItemCount>
+			<itemSize>0.25 0.125</itemSize>
+			<itemScale>1.35</itemScale>
+			<imageInterpolation>linear</imageInterpolation>
+			<color>00000000</color>
+			<textColor>BBBBBB</textColor>
+			<fontSize>0.055</fontSize>
+			<letterCase>uppercase</letterCase>
+			<lineSpacing>1.2</lineSpacing>
+			<reflections>true</reflections>
+			<reflectionsOpacity>.22</reflectionsOpacity>
+			<selectedItemMargins>.02 .02</selectedItemMargins>
+			<!-- <imageBrightness>.25</imageBrightness> -->
+			<unfocusedItemOpacity>0.8</unfocusedItemOpacity>
+			<unfocusedItemDimming>.8</unfocusedItemDimming>
+			<fastScrolling>true</fastScrolling>
+		</carousel>
+      <text name="system-description">
+         <origin>0.5 0</origin>
+         <pos>0.2 0.32</pos>
+         <size>0.3 0.3</size>
+         <fontPath>${mainFont}</fontPath>
+         <fontSize>0.02</fontSize>
+		 <lineSpacing>1.2</lineSpacing>
+		 <metadata>${systemDescription}</metadata>
+		 <text>${systemDescription}</text>
+         <verticalAlignment>top</verticalAlignment>
+         <horizontalAlignment>center</horizontalAlignment>
+         <container>true</container>
+         <containerScrollSpeed>0.6</containerScrollSpeed>
+         <color>ffffff</color>
+      </text>
+	</view>
+	
+	<view name="gamelist">
+		<image name="background">
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>${gameListBg}</path>
+			<zIndex>30</zIndex>
+		</image>
+		<textlist name="gamelist">
+			<selectorHeight>0.05</selectorHeight>
+			<selectorColor>00000060</selectorColor>
+			<fontPath>${gamelistFont}</fontPath>
+			<fontSize>0.028</fontSize>
+			<lineSpacing>1</lineSpacing>
+			<primaryColor>ffffff6a</primaryColor>
+			<secondaryColor>ffff00</secondaryColor>
+			<selectedColor>ffffffda</selectedColor>
+			<size>0.19 0.42</size>
+			<pos>0.47 0.4</pos>
+			<horizontalMargin>0.01</horizontalMargin>
+			<origin>0.5 0.75</origin>
+		</textlist>
+		<image name="snap">
+			<imageType>image</imageType>
+			<pos>.52 0.15</pos>
+			<size>0.2 0.22</size>
+			<origin>0 0</origin>
+			<default>${syslogo}</default>
+		</image>
+		<video name="clip">
+		<delay>1.5</delay>
+		<size>.3 .3</size>
+		<pos>.01 .27</pos>
+		<videoCornerRadius>.05</videoCornerRadius>
+		<defaultImage>${minisys}</defaultImage>
+		</video>
+	</view>
+</theme>

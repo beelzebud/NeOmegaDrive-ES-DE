@@ -1,0 +1,17 @@
+<theme>
+   <variables>
+      <systemDescription>The Namco System 357 is an arcade system board based on the Sony PlayStation 3. It was released in 2007 as the board for Tekken 6.[1] Unlike its predecessor, it did not see widespread adoption by other manufacturers.
+
+In 2011, Namco released an upgraded version of the arcade board, the System 369, also known as System 359, for use with Tekken Tag Tournament 2. The System 369's specifications are the same as Slim model retail PS3 consoles, and as such feature a smaller chassis with less heat. </systemDescription>
+      <systemManufacturer>Namco</systemManufacturer>
+      <systemReleaseYear>2007</systemReleaseYear>
+      <systemReleaseDate>2007-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2007</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>E27E16</systemColor>
+      <systemColorPalette1>E4E7D7</systemColorPalette1>
+      <systemColorPalette2>FD95B0</systemColorPalette2>
+      <systemColorPalette3>48B3EB</systemColorPalette3>
+      <systemColorPalette4>35FF90</systemColorPalette4>
+   </variables>
+</theme>

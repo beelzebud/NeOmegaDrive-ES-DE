@@ -1,0 +1,36 @@
+<!--
+    Theme capabilities for neomegadrive
+-->
+
+<themeCapabilities>
+
+    <suppressTransitionProfiles>
+        <entry>builtin-instant</entry>
+        <entry>builtin-slide</entry>
+        <entry>builtin-fade</entry>
+    </suppressTransitionProfiles>
+
+    <transitions name="slidefade">
+        <label>Slide</label>
+        <selectable>true</selectable>
+        <systemToSystem>slide</systemToSystem>
+        <systemToGamelist>slide</systemToGamelist>
+        <gamelistToGamelist>fade</gamelistToGamelist>
+        <gamelistToSystem>slide</gamelistToSystem>
+        <startupToSystem>fade</startupToSystem>
+        <startupToGamelist>fade</startupToGamelist>
+    </transitions>
+    <transitions name="instant">
+        <label>Instant</label>
+        <selectable>true</selectable>
+        <systemToSystem>instant</systemToSystem>
+        <systemToGamelist>instant</systemToGamelist>
+        <gamelistToGamelist>instant</gamelistToGamelist>
+        <gamelistToSystem>instant</gamelistToSystem>
+        <startupToSystem>instant</startupToSystem>
+        <startupToGamelist>instant</startupToGamelist>
+    </transitions>
+
+    <themeName>NeOmegaDrive</themeName>
+
+</themeCapabilities>

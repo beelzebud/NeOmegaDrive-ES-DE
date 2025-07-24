@@ -1,0 +1,16 @@
+<theme>
+   <variables>
+      <systemDescription>NESiCAxLive (Japanese: ネシカ　クロス　ライブ, Hepburn: Neshika Kurosu Raibu) is a digital distribution system for arcade video games made by Taito.[1] It is similar to the SEGA ALL.Net game distribution system. Taito uses NESiCAxLive to distribute not only its own games, but also allows other companies to use it as a publication platform. On its introduction SNK, Cave, and Arc System Works had agreed to distribute games on NESiCAxLive.[2] Currently,[when?] 8 games are operated as alone running titles and 29 titles as downloadable titles on candy cabinets. 
+      </systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>2004</systemReleaseYear>
+      <systemReleaseDate>2004</systemReleaseDate>
+      <systemReleaseDateFormated>2004</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>2A7FBD</systemColor>
+      <systemColorPalette1>F6DD08</systemColorPalette1>
+      <systemColorPalette2>800000</systemColorPalette2>
+      <systemColorPalette3>FF0000</systemColorPalette3>
+      <systemColorPalette4>303030</systemColorPalette4>
+   </variables>
+</theme>

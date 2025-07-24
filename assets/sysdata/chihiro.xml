@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Chihiro (チヒロ) is an arcade system produced by Sega and Microsoft based on the Xbox home video game console[1], and it was named after the protagonist of Studio Ghibli's Spirited Away movie. It was the second such partnership, with Sega also siding with Namco and Nintendo with the Nintendo GameCube-powered Triforce system.  The House of the Dead III was the first game to launch for the platform in late 2002. </systemDescription>
+      <systemManufacturer>Microsoft/Sega</systemManufacturer>
+      <systemReleaseYear>2002</systemReleaseYear>
+      <systemReleaseDate>2002-1-1</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2002</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>68B653</systemColor>
+      <systemColorPalette1>CDDF01</systemColorPalette1>
+      <systemColorPalette2>9ABF5E</systemColorPalette2>
+      <systemColorPalette3>534F57</systemColorPalette3>
+      <systemColorPalette4>000000</systemColorPalette4>
+   </variables>
+</theme>
