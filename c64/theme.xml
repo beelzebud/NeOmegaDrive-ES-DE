@@ -2,8 +2,8 @@
 	<include>./../assets/sysdata/${system.theme}.xml</include>
 	
 	<variables>
-		<systemBg>./../assets/systemBg/${system.theme}.png</systemBg>
-		<gameListBg>./../assets/gamelistBG/${system.theme}.png</gameListBg>
+		<systemBg>./../assets/systemBg/${system.theme}.webp</systemBg>
+		<gameListBg>./../assets/gamelistBG/${system.theme}.webp</gameListBg>
 		<mainFont>./../assets/fonts/aldrich.ttf</mainFont>
         <mainFontSize>0.025</mainFontSize>
 		<gamelistFont>./../assets/fonts/pixel3.ttf</gamelistFont>
@@ -12,7 +12,7 @@
 		<sysFont2>./../assets/fonts/bold.ttf</sysFont2>
 		<sysData>./../assets/sysdata/${system.theme}.xml</sysData>
 		<syslogo>./../assets/logos/${system.theme}.svg</syslogo>
-		<minisys>./../assets/minis/${system.theme}.png</minisys>
+		<minisys>./../assets/minis/${system.theme}.webp</minisys>
 	</variables>
 	
 	<view name="system">
