@@ -1,0 +1,18 @@
+<theme>
+   <variables>
+      <systemDescription>The LaserActive (Japanese: レーザーアクティブ, Hepburn: Rēzā Akutibu) is a hybrid LaserDisc player and home video game console released by Pioneer Corporation in 1993. Marketed as a high-end, modular entertainment system, it was designed to combine movies, music, and video games into a single unit. Out of the box, the base unit could natively play standard LaserDiscs and Compact discs, but support for video games required optional expansion modules known as PACs. Each PAC enabled compatibility with a specific gaming platform and its media formats. 
+
+Mega-LD PAC (PAC-S1 / PAC-S10)
+    Developed with Sega, this PAC enabled support for Mega-LD software as well as standard Sega Genesis cartridges, Sega CD discs, and CD+G discs. It included a LaserActive-branded 6-button Genesis controller (model CPD-S1) and retailed for US$600 (equivalent to $1,306 in 2024).[3] It was the most widely adopted module among LaserActive owners.</systemDescription>
+      <systemManufacturer>Various</systemManufacturer>
+      <systemReleaseYear>Various</systemReleaseYear>
+      <systemReleaseDate>Various</systemReleaseDate>
+      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+      <systemHardwareType>Folder</systemHardwareType>
+      <systemColor>222222</systemColor>
+      <systemColorPalette1>F6DD08</systemColorPalette1>
+      <systemColorPalette2>800000</systemColorPalette2>
+      <systemColorPalette3>FF0000</systemColorPalette3>
+      <systemColorPalette4>303030</systemColorPalette4>
+   </variables>
+</theme>
