@@ -1,4 +1,4 @@
-aaaaas<theme>
+<theme>
 	<include>./../assets/sysdata/${system.theme}.xml</include>
 	
 	<variables>
@@ -93,7 +93,7 @@ aaaaas<theme>
 		<video name="clip">
 		<delay>1.5</delay>
 		<maxSize>.23 .23</maxSize>
-		<pos>.514 .12</pos>
+		<pos>.58 .12</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
 		<defaultImage>${minisys}</defaultImage>
 		</video>

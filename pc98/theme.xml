@@ -87,15 +87,15 @@
 		</textlist>
 		<image name="snap">
 			<imageType>image</imageType>
-			<pos>.52 0.15</pos>
-			<size>0.2 0.22</size>
+			<pos>.60 0.15</pos>
+			<size>0.15 0.15</size>
 			<origin>0 0</origin>
 			<default>${syslogo}</default>
 		</image>
 		<video name="clip">
 		<delay>1.5</delay>
-		<maxSize>.3 .4</maxSize>
-		<pos>.01 .27</pos>
+		<maxSize>.15 .15</maxSize>
+		<pos>.64 .40</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
 		<defaultImage>${minisys}</defaultImage>
 		</video>
