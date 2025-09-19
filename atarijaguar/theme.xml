@@ -132,7 +132,7 @@
 		</image>
 		<video name="clip">
 		<delay>1.5</delay>
-		<maxSize>.29 .33</maxSize>
+		<maxSize>.29 .29</maxSize>
 		<pos>.64 .3</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
 		<defaultImage>${minisys}</defaultImage>
