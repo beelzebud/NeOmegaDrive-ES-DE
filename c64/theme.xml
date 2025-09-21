@@ -86,26 +86,26 @@
 		<text name="players">
 		<text>Players:</text>
 		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.41 0.55</pos>
+            <pos>0.4 0.55</pos>
             <size>0 0</size>
             <origin>0.5 0</origin>
 		</text>
         <text name="players1">
             <metadata>players</metadata>
             <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.485 0.525</pos>
+            <pos>0.485 0.55</pos>
             <size>0.03 0.1</size>
             <origin>0.5 0</origin>
         </text>

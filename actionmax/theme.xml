@@ -88,7 +88,7 @@
 		<text name="players">
 		<text>Players:</text>
 		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
@@ -101,27 +101,27 @@
         <text name="players1">
             <metadata>players</metadata>
             <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.485 0.525</pos>
-            <size>0.03 0.1</size>
+            <pos>0.485 0.55</pos>
+            <size>0 0</size>
             <origin>0.5 0</origin>
         </text>
 		    <datetime name="release1">
             <metadata>releasedate</metadata>
-            <fontPath>${mainFont}</fontPath>
+            <fontPath>${gamelistFont}</fontPath>
             <format>%Y</format>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.03</fontSize>
             <defaultValue>:space:</defaultValue>
             <color>808080</color>
             <letterCase>capitalize</letterCase>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.385 0.67</pos>
+            <pos>0.39 0.67</pos>
             <size>0.05 0.06</size>
             <origin>0.5 1</origin>
         </datetime>

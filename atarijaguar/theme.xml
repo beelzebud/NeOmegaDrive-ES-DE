@@ -83,30 +83,30 @@
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0.5 0.75</origin>
 		</textlist>
-		<text name="players">
+			<text name="players">
 		<text>Players:</text>
 		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.455 0.56</pos>
+            <pos>0.455 0.51</pos>
             <size>0 0</size>
             <origin>0.5 0</origin>
 		</text>
         <text name="players1">
             <metadata>players</metadata>
             <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.55 0.56</pos>
-            <size>0.0 0.0</size>
+            <pos>0.54 0.51</pos>
+            <size>0.03 0.1</size>
             <origin>0.5 0</origin>
         </text>
 		    <datetime name="release1">
@@ -119,7 +119,7 @@
             <letterCase>capitalize</letterCase>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.435 0.56</pos>
+            <pos>0.43 0.56</pos>
             <size>0.05 0.06</size>
             <origin>0.5 1</origin>
         </datetime>

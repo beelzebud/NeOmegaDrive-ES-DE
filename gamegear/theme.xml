@@ -86,7 +86,7 @@
 		<text name="players">
 		<text>Players:</text>
 		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
@@ -99,7 +99,7 @@
         <text name="players1">
             <metadata>players</metadata>
             <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
@@ -111,9 +111,9 @@
         </text>
 		    <datetime name="release1">
             <metadata>releasedate</metadata>
-            <fontPath>${mainFont}</fontPath>
+            <fontPath>${gamelistFont}</fontPath>
             <format>%Y</format>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.03</fontSize>
             <defaultValue>:space:</defaultValue>
             <color>808080</color>
             <letterCase>capitalize</letterCase>

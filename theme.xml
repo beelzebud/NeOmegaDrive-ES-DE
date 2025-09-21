@@ -71,14 +71,14 @@
 			<zIndex>30</zIndex>
 		</image>
 		<textlist name="gamelist">
-			<selectorHeight>0.028</selectorHeight>
-			<selectorColor>228B22</selectorColor>
+			<selectorHeight>0.03</selectorHeight>
+			<selectorColor>3e943e</selectorColor>
 			<fontPath>${gamelistFont}</fontPath>
 			<fontSize>0.028</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<primaryColor>58ff4f</primaryColor>
 			<secondaryColor>7be675</secondaryColor>
-			<selectedColor>58ff4f</selectedColor>
+			<selectedColor>000000</selectedColor>
 			<size>0.26 0.48</size>
 			<pos>0.20 0.62</pos>
 			<horizontalMargin>0.01</horizontalMargin>
@@ -87,41 +87,41 @@
 		<text name="players">
 		<text>Players:</text>
 		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.035</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.41 0.55</pos>
+            <pos>0.42 0.56</pos>
             <size>0 0</size>
             <origin>0.5 0</origin>
 		</text>
         <text name="players1">
             <metadata>players</metadata>
             <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.035</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.485 0.525</pos>
-            <size>0.03 0.1</size>
+            <pos>0.49 0.56</pos>
+            <size>0 0</size>
             <origin>0.5 0</origin>
         </text>
 		    <datetime name="release1">
             <metadata>releasedate</metadata>
             <fontPath>${mainFont}</fontPath>
             <format>%Y</format>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.025</fontSize>
             <defaultValue>:space:</defaultValue>
             <color>808080</color>
             <letterCase>capitalize</letterCase>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.385 0.67</pos>
-            <size>0.05 0.06</size>
+            <pos>0.4 0.65</pos>
+            <size>0 0</size>
             <origin>0.5 1</origin>
         </datetime>
 		<image name="snap">

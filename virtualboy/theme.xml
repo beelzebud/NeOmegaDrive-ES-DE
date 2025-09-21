@@ -72,50 +72,24 @@
 			<zIndex>30</zIndex>
 		</image>
 		<textlist name="gamelist">
-			<selectorHeight>0.05</selectorHeight>
-			<selectorColor>00000060</selectorColor>
+			<selectorHeight>0.035</selectorHeight>
+			<selectorColor>b30418</selectorColor>
 			<fontPath>${gamelistFont}</fontPath>
 			<fontSize>0.028</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<primaryColor>ffffff6a</primaryColor>
 			<secondaryColor>ffff00</secondaryColor>
-			<selectedColor>ffffffda</selectedColor>
+			<selectedColor>000000</selectedColor>
 			<size>0.26 0.4</size>
-			<pos>0.25 0.60</pos>
+			<pos>0.255 0.60</pos>
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0.5 0.75</origin>
 		</textlist>
-		<text name="players">
-		<text>Players:</text>
-		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
-			<color>808080</color>
-            <letterCase>capitalize</letterCase>
-            <defaultValue>:space:</defaultValue>
-            <horizontalAlignment>left</horizontalAlignment>
-            <lineSpacing>0.95</lineSpacing>
-            <pos>0.45 0.55</pos>
-            <size>0 0</size>
-            <origin>0.5 0</origin>
-		</text>
-        <text name="players1">
-            <metadata>players</metadata>
-            <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
-			<color>808080</color>
-            <letterCase>capitalize</letterCase>
-            <defaultValue>:space:</defaultValue>
-            <horizontalAlignment>left</horizontalAlignment>
-            <lineSpacing>0.95</lineSpacing>
-            <pos>0.54 0.525</pos>
-            <size>0.03 0.1</size>
-            <origin>0.5 0</origin>
-        </text>
-		    <datetime name="release1">
+		<datetime name="release1">
             <metadata>releasedate</metadata>
-            <fontPath>${mainFont}</fontPath>
+            <fontPath>${gamelistFont}</fontPath>
             <format>%Y</format>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.04</fontSize>
             <defaultValue>:space:</defaultValue>
             <color>808080</color>
             <letterCase>capitalize</letterCase>

@@ -13,6 +13,7 @@
 		<sysData>./../assets/sysdata/${system.theme}.xml</sysData>
 		<syslogo>./../assets/logos/${system.theme}.svg</syslogo>
 		<minisys>./../assets/minis/${system.theme}.webp</minisys>
+		<minisys>./../assets/minis/${system.theme}.webp</minisys>
 	</variables>
 	
 	<view name="system">
@@ -70,16 +71,16 @@
 			<zIndex>30</zIndex>
 		</image>
 		<textlist name="gamelist">
-			<selectorHeight>0.037</selectorHeight>
-			<selectorColor>00000060</selectorColor>
+			<selectorHeight>0.03</selectorHeight>
+			<selectorColor>3e943e</selectorColor>
 			<fontPath>${gamelistFont}</fontPath>
 			<fontSize>0.028</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<primaryColor>ffffff6a</primaryColor>
 			<secondaryColor>ffff00</secondaryColor>
-			<selectedColor>ffffffda</selectedColor>
+			<selectedColor>000000</selectedColor>
 			<size>0.26 0.46</size>
-			<pos>0.200 0.63</pos>
+			<pos>0.19 0.58</pos>
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0.5 0.75</origin>
 		</textlist>
@@ -135,7 +136,7 @@
 		<maxSize>.4 .4</maxSize>
 		<pos>.56 .3</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
- 		<defaultImage>${minisys}</defaultImage>
-	</video>
+		<defaultImage>${minisys}</defaultImage>
+		</video>
 	</view>
 </theme>

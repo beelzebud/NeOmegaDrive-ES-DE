@@ -73,14 +73,14 @@
 			<zIndex>30</zIndex>
 		</image>
 		<textlist name="gamelist">
-			<selectorHeight>0.025</selectorHeight>
-			<selectorColor>00000060</selectorColor>
+			<selectorHeight>0.03</selectorHeight>
+			<selectorColor>3e943e</selectorColor>
 			<fontPath>${gamelistFont}</fontPath>
 			<fontSize>0.028</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<primaryColor>58ff4f</primaryColor>
 			<secondaryColor>7be675</secondaryColor>
-			<selectedColor>58ff4f</selectedColor>
+			<selectedColor>000000</selectedColor>
 			<size>0.26 0.48</size>
 			<pos>0.210 0.60</pos>
 			<horizontalMargin>0.01</horizontalMargin>

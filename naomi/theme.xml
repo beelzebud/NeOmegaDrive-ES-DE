@@ -86,32 +86,32 @@
 		<text name="players">
 		<text>Players:</text>
 		<fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.05</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.46 0.59</pos>
+            <pos>0.45 0.6</pos>
             <size>0 0</size>
             <origin>0.5 0</origin>
 		</text>
         <text name="players1">
             <metadata>players</metadata>
             <fontPath>${gamelistFont}</fontPath>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.03</fontSize>
 			<color>808080</color>
             <letterCase>capitalize</letterCase>
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>1</lineSpacing>
-            <pos>0.54 0.565</pos>
+            <pos>0.54 0.56</pos>
             <size>0.03 0.1</size>
             <origin>0.5 0</origin>
         </text>
 		    <datetime name="release1">
             <metadata>releasedate</metadata>
-            <fontPath>${mainFont}</fontPath>
+            <fontPath>${gamelistFont}</fontPath>
             <format>%Y</format>
             <fontSize>0.03</fontSize>
             <defaultValue>:space:</defaultValue>
@@ -130,17 +130,11 @@
 			<origin>0 0</origin>
 			<default>${syslogo}</default>
 		</image>
-		<image name="logo">
-			<pos>.35 .04</pos>
-			<size>.25 .1</size>
-			<path>${syslogo}</path>
-			<zIndex>40</zIndex>
-		</image>
 		<video name="clip">
-			<delay>1.5</delay>
-			<maxSize>.29 .37</maxSize>
-			<pos>.6 .32</pos>
-			<videoCornerRadius>.05</videoCornerRadius>
+		<delay>1.5</delay>
+		<maxSize>.29 .37</maxSize>
+		<pos>.6 .32</pos>
+		<videoCornerRadius>.05</videoCornerRadius>
 			<defaultImage>${minisys}</defaultImage>
 		</video>
 	</view>

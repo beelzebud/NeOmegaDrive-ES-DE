@@ -73,16 +73,16 @@
 			<zIndex>30</zIndex>
 		</image>
 		<textlist name="gamelist">
-			<selectorHeight>0.025</selectorHeight>
-			<selectorColor>00000060</selectorColor>
+			<selectorHeight>0.03</selectorHeight>
+			<selectorColor>3e943e</selectorColor>
 			<fontPath>${gamelistFont}</fontPath>
 			<fontSize>0.028</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<primaryColor>58ff4f</primaryColor>
 			<secondaryColor>7be675</secondaryColor>
-			<selectedColor>58ff4f</selectedColor>
+			<selectedColor>000000</selectedColor>
 			<size>0.26 0.48</size>
-			<pos>0.210 0.60</pos>
+			<pos>0.210 0.52</pos>
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0.5 0.75</origin>
 		</textlist>
@@ -95,7 +95,7 @@
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.140 .755</pos>
+            <pos>0.15 .5</pos>
             <size>0 0</size>
             <origin>0.5 0</origin>
 		</text>
@@ -108,8 +108,8 @@
             <defaultValue>:space:</defaultValue>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>1</lineSpacing>
-            <pos>0.23 0.73</pos>
-            <size>0.03 0.1</size>
+            <pos>0.17 0.5</pos>
+            <size>0 0</size>
             <origin>0.5 0</origin>
         </text>
 		    <datetime name="release1">
@@ -122,8 +122,8 @@
             <letterCase>capitalize</letterCase>
             <horizontalAlignment>left</horizontalAlignment>
             <lineSpacing>0.95</lineSpacing>
-            <pos>0.32 0.81</pos>
-            <size>0.06 0.06</size>
+            <pos>0.12 0.6</pos>
+            <size>0 0</size>
             <origin>0.5 1</origin>
         </datetime>
 		<image name="snap">
