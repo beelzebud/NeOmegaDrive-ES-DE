@@ -129,7 +129,7 @@
 			<pos>0.365 0.27</pos>
 			<size>0.14 0.25</size>
 			<origin>0 0</origin>
-			<default>${syslogo}</default>
+			<default>${minisys}</default>
 		</image>
 		<image name="logo">
 			<pos>.35 .05</pos>
@@ -141,7 +141,7 @@
 			<size>.38 .49</size>
 			<pos>.555 .275</pos>
 			<videoCornerRadius>.05</videoCornerRadius>			 
-			<defaultImage>${minisys}</defaultImage>
+			<defaultImage>${syslogo}</defaultImage>
 		</video>
 	</view>
 </theme>

@@ -134,14 +134,14 @@
 			<pos>0.37 0.315</pos>
 			<size>0.13 0.22</size>
 			<origin>0 0</origin>
-			<default>${syslogo}</default>
+			<default>${minisys}</default>
 		</image>
 		<video name="clip">
 		<delay>1.5</delay>
 		<maxSize>.38 .45</maxSize>
 		<pos>.57 .27</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
-		<defaultImage>${minisys}</defaultImage>
+		<defaultImage>${syslogo}</defaultImage>
 		</video>
 	</view>
 </theme>
