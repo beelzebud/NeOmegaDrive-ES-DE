@@ -53,7 +53,7 @@
          <fontPath>${mainFont}</fontPath>
          <fontSize>0.02</fontSize>
 		 <lineSpacing>1.2</lineSpacing>
-		 <metadata>${systemDescription}</metadata>
+
 		 <text>${systemDescription}</text>
          <verticalAlignment>top</verticalAlignment>
          <horizontalAlignment>center</horizontalAlignment>
@@ -95,7 +95,7 @@
 		<maxSize>.44 .50</maxSize>
 		<pos>.56 .27</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
-		<defaultImage>${minisys}</defaultImage>
+		<defaultImage>${syslogo}</defaultImage>
 		</video>
 	</view>
 </theme>

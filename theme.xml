@@ -13,6 +13,7 @@
 		<sysData>./assets/sysdata/${system.theme}.xml</sysData>
 		<syslogo>./assets/logos/${system.theme}.svg</syslogo>
 		<minisys>./assets/minis/${system.theme}.webp</minisys>
+		<sysdata>./assets/sysdata/${system.theme}.xml</sysdata>
 	</variables>
 	
 	<view name="system">
@@ -46,21 +47,20 @@
 			<unfocusedItemDimming>.8</unfocusedItemDimming>
 			<fastScrolling>true</fastScrolling>
 		</carousel>
-      <text name="system-description">
-         <origin>0.5 0</origin>
-         <pos>0.2 0.32</pos>
-         <size>0.3 0.3</size>
-         <fontPath>${mainFont}</fontPath>
-         <fontSize>0.02</fontSize>
-		 <lineSpacing>1.2</lineSpacing>
-		 <metadata>${systemDescription}</metadata>
-		 <text>${systemDescription}</text>
-         <verticalAlignment>top</verticalAlignment>
-         <horizontalAlignment>center</horizontalAlignment>
-         <container>true</container>
-         <containerScrollSpeed>0.6</containerScrollSpeed>
-         <color>ffffff</color>
-      </text>
+	  <text name="system-description">
+				<origin>0.5 0</origin>
+				<pos>0.24 0.32</pos>
+				<size>0.3 0.3</size>
+				<fontPath>${mainFont}</fontPath>
+                <fontSize>0.02</fontSize>
+                <lineSpacing>1.2</lineSpacing>
+                <text>${systemDescription}</text>
+                <container>true</container>
+                <containerScrollSpeed>1</containerScrollSpeed>
+                <containerStartDelay>4.5</containerStartDelay>
+                <containerResetDelay>7</containerResetDelay>
+				<color>ffffff</color>
+	  </text>
 	</view>
 	
 	<view name="gamelist">

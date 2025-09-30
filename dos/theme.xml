@@ -50,12 +50,12 @@
 		</carousel>
       <text name="system-description">
          <origin>0.5 0</origin>
-         <pos>0.2 0.32</pos>
+         <pos>0.24 0.32</pos>
          <size>0.3 0.3</size>
          <fontPath>${mainFont}</fontPath>
          <fontSize>0.02</fontSize>
 		 <lineSpacing>1.2</lineSpacing>
-		 <metadata>${systemDescription}</metadata>
+
 		 <text>${systemDescription}</text>
          <verticalAlignment>top</verticalAlignment>
          <horizontalAlignment>center</horizontalAlignment>
@@ -131,13 +131,13 @@
 			<pos>0.5 0.1</pos>
 			<size>0.165 0.25</size>
 			<origin>0 0</origin>
-			<default>${syslogo}</default>
+			<default>${minisys}</default>
 		</image>
 		<video name="clip">
 			<maxSize>.30 .40</maxSize>
 			<pos>.365 .415</pos>
 			<videoCornerRadius>.05</videoCornerRadius>
-			<defaultImage>${minisys}</defaultImage>
+			<defaultImage>${syslogo}</defaultImage>
 		</video>
 	</view>
 </theme>
