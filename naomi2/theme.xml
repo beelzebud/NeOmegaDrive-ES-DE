@@ -29,7 +29,7 @@
 			<type>horizontal</type>
 			<horizontalOffset>-.275</horizontalOffset>
 			<staticImage>${syslogo}</staticImage>
-			<defaultImage>${syslogo}</defaultImage>
+		<defaultImage>${syslogo}</defaultImage>
 			<maxItemCount>3</maxItemCount>
 			<itemSize>0.25 0.125</itemSize>
 			<itemScale>1.35</itemScale>
@@ -135,7 +135,7 @@
 		<maxSize>.29 .37</maxSize>
 		<pos>.6 .32</pos>
 		<videoCornerRadius>.05</videoCornerRadius>
-			<defaultImage>${syslogo}</defaultImage>
+		<defaultImage>${syslogo}</defaultImage>
 		</video>
 	</view>
 </theme>

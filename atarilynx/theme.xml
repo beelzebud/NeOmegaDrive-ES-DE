@@ -29,7 +29,7 @@
 			<type>horizontal</type>
 			<horizontalOffset>-.275</horizontalOffset>
 			<staticImage>${syslogo}</staticImage>
-			<defaultImage>${syslogo}</defaultImage>
+		<defaultImage>${syslogo}</defaultImage>
 			<maxItemCount>1</maxItemCount>
 			<itemSize>0.25 0.125</itemSize>
 			<itemScale>1.35</itemScale>

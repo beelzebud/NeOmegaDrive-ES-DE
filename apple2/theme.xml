@@ -29,7 +29,7 @@
 			<type>horizontal</type>
 			<horizontalOffset>-.275</horizontalOffset>
 			<staticImage>${syslogo}</staticImage>
-			<defaultImage>${syslogo}</defaultImage>
+		<defaultImage>${syslogo}</defaultImage>
 			<maxItemCount>3</maxItemCount>
 			<itemSize>0.25 0.125</itemSize>
 			<itemScale>1.35</itemScale>
@@ -52,7 +52,6 @@
          <fontPath>${mainFont}</fontPath>
          <fontSize>0.02</fontSize>
 		 <lineSpacing>1.2</lineSpacing>
-
 		 <text>${systemDescription}</text>
          <verticalAlignment>top</verticalAlignment>
          <horizontalAlignment>center</horizontalAlignment>

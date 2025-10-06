@@ -41,10 +41,10 @@
 			<letterCase>uppercase</letterCase>
 			<lineSpacing>1.2</lineSpacing>
 			<reflections>true</reflections>
-			<reflectionsOpacity>.22</reflectionsOpacity>
+			<reflectionsOpacity>.32</reflectionsOpacity>
 			<selectedItemMargins>.02 .02</selectedItemMargins>
-			<unfocusedItemOpacity>0.8</unfocusedItemOpacity>
-			<unfocusedItemDimming>.8</unfocusedItemDimming>
+			<unfocusedItemOpacity>0.0</unfocusedItemOpacity>
+			<unfocusedItemDimming>100</unfocusedItemDimming>
 			<fastScrolling>true</fastScrolling>
 		</carousel>
 	  <text name="system-description">
