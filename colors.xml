@@ -1,0 +1,29 @@
+<theme>
+  <colorScheme name="green">
+        <variables>
+            <backgroundColor>000000</backgroundColor>
+            <defaultTextColor>00ab66</defaultTextColor>
+        </variables>
+    </colorScheme>
+	
+	<colorScheme name="white">
+        <variables>
+            <backgroundColor>000000</backgroundColor>
+            <defaultTextColor>ffffff</defaultTextColor>
+        </variables>
+    </colorScheme>
+
+	<colorScheme name="red">
+        <variables>
+            <backgroundColor>000000</backgroundColor>
+            <defaultTextColor>ff2800</defaultTextColor>
+        </variables>
+    </colorScheme>
+
+	<colorScheme name="grey">
+        <variables>
+            <backgroundColor>000000</backgroundColor>
+            <defaultTextColor>8b8680</defaultTextColor>
+        </variables>
+    </colorScheme>
+</theme>

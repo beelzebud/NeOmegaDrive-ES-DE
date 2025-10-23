@@ -4,6 +4,18 @@
 
 <themeCapabilities>
 
+<!-- 	<colorScheme name="green">
+		</colorScheme>
+	
+	<colorScheme name="white">
+		</colorScheme>
+	
+	<colorScheme name="red">
+		</colorScheme>
+	
+	<colorScheme name="grey">
+		</colorScheme> -->
+	
     <suppressTransitionProfiles>
         <entry>builtin-instant</entry>
         <entry>builtin-slide</entry>
